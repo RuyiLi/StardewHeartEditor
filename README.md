@@ -1,5 +1,5 @@
 # StardewHeartEditor
-##To download:
+##To use:
 1. Press download.
 2. Open the zip file.
 3. Extract the HeartEditor folder.
